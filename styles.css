@@ -79,6 +79,16 @@ p2 {
 	text-align: center;
 }
 
+#banner3 {
+	padding: 12em 0 10em 0;
+	background-image: url('../pillars.jpg');
+	background-size: cover;
+	background-position: top;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
 #header {
 		color: #d4e0ef;
 		cursor: default;
